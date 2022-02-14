@@ -6,7 +6,7 @@ Implementación de un Pokedex (https://www.Pokemon.com/us/pokedex/). En el mismo
 
 ## Librerías usadas
 
-- Gamelib
+- Gamelib (Gamelib (https://github.com/dessaya/python-gamelib) es una biblioteca de funciones para implementar videojuegos simples en Python)
 
 ## Lenguaje usado
 
